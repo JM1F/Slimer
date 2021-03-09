@@ -85,6 +85,6 @@ def breadthfirst_search(graph, start, end):
 ```
 
 ## Download
-* You can download the game ***<ins>[HERE](https://github.com/JM1F/Slimer/archive/v1.0.zip)</ins>***
+* You can download the game ***<ins>[HERE](https://github.com/JM1F/Slimer/files/6105404/Slimer.zip)</ins>***
 
 ## Further Reading
