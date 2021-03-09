@@ -1,15 +1,22 @@
 # Slimer
-![Slimer](https://user-images.githubusercontent.com/71614127/110403148-815f4c00-8074-11eb-9414-8c2f4c8df673.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71614127/110403148-815f4c00-8074-11eb-9414-8c2f4c8df673.png">
+</p>
+
 
 Simple rogue-like game made using [python-pygame](https://www.pygame.org/news).
 ## How to play the game
 The game consists of 5 procedurally generated rooms where you have to fight a random amount of enemies where they chase you around and deal damage if they hit you. The procedurally generated rooms also can spawn health packs that allow the player to regenerate health back.
 
-![Room](https://user-images.githubusercontent.com/71614127/110403496-13675480-8075-11eb-951f-fbd3d76df423.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71614127/110403496-13675480-8075-11eb-951f-fbd3d76df423.png">
+</p>
 
 Once all the rooms have successfully been beaten you will move onto the final room. This room contains the boss, in order to beat the game you will need to defeat the boss.
 
-![Boss](https://user-images.githubusercontent.com/71614127/110404676-3135b900-8077-11eb-9070-e5a55d9f6e3d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71614127/110404676-3135b900-8077-11eb-9070-e5a55d9f6e3d.png">
+</p>
 
 ## Controls
 <ins>Movement</ins> - W,A,S,D to move in all directions.
