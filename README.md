@@ -18,7 +18,7 @@ Once all the rooms have successfully been beaten you will move onto the final ro
 
 ## Algorithms used
 
-***A * Path Finding Algorithm***
+***A * Searching Algorithm***
 
 The blue enemies use the A* Search Algorithm to locate the player's sprite.
 
@@ -58,7 +58,7 @@ def aStar(graph, start, end):
 
 ```
 
-***Breadth-First Search***
+***Breadth-First Searching Algorithm***
 
 Beacon items also have a chance to spawn in. This makes all the enemies attracted to the beacon's position.
 
