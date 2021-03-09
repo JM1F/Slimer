@@ -16,7 +16,7 @@ Once all the rooms have successfully been beaten you will move onto the final ro
 
 <ins>Aim/Fire</ins> - Use mouse to aim and MOUSE1 to shoot.
 
-## Algorithms used
+## Algorithms Used
 
 ***A * Searching Algorithm***
 
@@ -83,3 +83,8 @@ def breadthfirst_search(graph, start, end):
                         path[vector_to_integer(next)] = current - next
         return path
 ```
+
+## Download
+* You can download the game ***<ins>[HERE](https://github.com/JM1F/Slimer/archive/v1.0.zip)</ins>***
+
+## Further Reading
