@@ -1,10 +1,12 @@
 # Slimer
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71614127/110403148-815f4c00-8074-11eb-9414-8c2f4c8df673.png">
+  <img src="https://user-images.githubusercontent.com/71614127/110403148-815f4c00-8074-11eb-9414-8c2f4c8df673.png"></p>
+<p align="center">
+  <b>Simple rogue-like game</b>
 </p>
 
 
-Simple rogue-like game made using [python-pygame](https://www.pygame.org/news).
+
 ## How to play the game
 The game consists of 5 procedurally generated rooms where you have to fight a random amount of enemies where they chase you around and deal damage if they hit you. The procedurally generated rooms also can spawn health packs that allow the player to regenerate health back.
 
@@ -95,6 +97,7 @@ def breadthfirst_search(graph, start, end):
 * You can download the game ***<ins>[HERE](https://github.com/JM1F/Slimer/files/6105404/Slimer.zip)</ins>***
 
 ## Further Reading
+* Made using [python-pygame](https://www.pygame.org/news).
 
 * This project was part of an assignment with school.
 
