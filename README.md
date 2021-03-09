@@ -88,3 +88,7 @@ def breadthfirst_search(graph, start, end):
 * You can download the game ***<ins>[HERE](https://github.com/JM1F/Slimer/files/6105404/Slimer.zip)</ins>***
 
 ## Further Reading
+
+* This project was part of an assignment with school.
+
+* For more infomation on how the project is made and the thought process behind it: <ins>[Project Write-Up](https://github.com/JM1F/Slimer/files/6105495/Project.Write.Up.pdf)</ins>
