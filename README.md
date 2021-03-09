@@ -91,4 +91,4 @@ def breadthfirst_search(graph, start, end):
 
 * This project was part of an assignment with school.
 
-* For more infomation on how the project is made and the thought process behind it: <ins>[Project Write-Up](https://github.com/JM1F/Slimer/files/6105495/Project.Write.Up.pdf)</ins>
+* For more information on how the project is made and the thought process behind it: <ins>[Project Write-Up](https://github.com/JM1F/Slimer/files/6105495/Project.Write.Up.pdf)</ins>
